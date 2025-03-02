@@ -42,7 +42,11 @@ project to your local machine.
 This project was carried out under the guidance of the [IJSE](https://www.ijse.lk/) Direct Entry Program 9.
 
 ## License
+<<<<<<< HEAD
 Copyright &copy; 2025 [Atife Ogheneochuko](www.linkedin.com/in/ogheneochuko-atife-44b3331b2
 
 ). All Rights Reserved.<br>
+=======
+Copyright &copy; 2025 [Atife Ogheneochuko](https://www.linkedin.com/in/pubudujanith94/). All Rights Reserved.<br>
+>>>>>>> 6dfb169f36678e4347572d5873c0bb0fe8f61fdc
 This project is licensed and source code is available to all under the [MIT license](LICENSE.txt).
