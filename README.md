@@ -33,7 +33,7 @@ Search results for the entered inputs are provided to the user by a
 This project can be used by cloning the
 project to your local machine.
 
-1. Clone the project using `git clone https://github.com/PubuduJ/google-homepage-clone.git` terminal command.
+1. Clone the project using `git clonehttps://github.com/ochukoatife/google-homepage-clone-main.git` terminal command.
 2. Open the project from **Visual Studio Code**.
 3. Run the project using **Live Server**
 - Live server can be installed to the VS Code as a extension. Get more details about the Live Server from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
@@ -42,5 +42,7 @@ project to your local machine.
 This project was carried out under the guidance of the [IJSE](https://www.ijse.lk/) Direct Entry Program 9.
 
 ## License
-Copyright &copy; 2022 [Pubudu Janith](https://www.linkedin.com/in/pubudujanith94/). All Rights Reserved.<br>
+Copyright &copy; 2025 [Atife Ogheneochuko](www.linkedin.com/in/ogheneochuko-atife-44b3331b2
+
+). All Rights Reserved.<br>
 This project is licensed and source code is available to all under the [MIT license](LICENSE.txt).
